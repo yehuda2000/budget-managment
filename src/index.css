@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#transaction{
+    width: 650px;
+    border: solid #f3f4f6 1px;
+}
+#expenses{
+    width: 650px;
+    border: solid #f3f4f6 1px;
+}
+#title{
+    text-shadow: 2px 2px 4px rgba(77, 77, 77, 0.5);
+}
+#total{
+    width: 318px;
+    border: solid #f3f4f6 1px;
+}
+#sort{
+    margin-right: 2px;
+}
